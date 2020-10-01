@@ -7,7 +7,7 @@
   <li>The History of JavaScript (JS).</li>
   <li>What's the JavaScript language?</li>
   <li>Procedural JavaScript.</li>
-  <li>JavaScript OOP.</li>
+  <li>JavaScript Object Oriented Programming(OOP).</li>
   <li>Functional JavaScript.</li>
   <li>EcmaScript 6 (ES6).</li>
   <li>jQuery Framework.</li>
@@ -25,7 +25,7 @@
   <li>JavaScript.</li>
 </ol>
 
-## Hello, world! JS
+## Hello world! JS
 <img src="https://coursework.vschool.io/content/images/size/w2000/2016/03/javascript-logo-banner.jpg"/><br>
 <p>Abaixo é apresentado o comando console.log: </p>
  <pre>
